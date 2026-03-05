@@ -1,0 +1,54 @@
+{
+  "models": [
+    "gpt-oss-20b",
+    "nemotron-nano-9b",
+    "llmjp-v4-8b",
+    "qwen3-8b",
+    "claude"
+  ],
+  "overall_ranking": [
+    {
+      "model": "claude",
+      "accuracy": 0.89
+    },
+    {
+      "model": "llmjp-v4-8b",
+      "accuracy": 0.58
+    },
+    {
+      "model": "qwen3-8b",
+      "accuracy": 0.42
+    },
+    {
+      "model": "gpt-oss-20b",
+      "accuracy": 0.23
+    },
+    {
+      "model": "nemotron-nano-9b",
+      "accuracy": 0.23
+    }
+  ],
+  "by_category": {
+    "culture": {
+      "gpt-oss-20b": 0.2449,
+      "nemotron-nano-9b": 0.2857,
+      "llmjp-v4-8b": 0.6327,
+      "qwen3-8b": 0.4694,
+      "claude": 0.898
+    },
+    "custom": {
+      "gpt-oss-20b": 0.2245,
+      "nemotron-nano-9b": 0.1837,
+      "llmjp-v4-8b": 0.5306,
+      "qwen3-8b": 0.3673,
+      "claude": 0.8776
+    },
+    "regional_identity": {
+      "gpt-oss-20b": 0.0,
+      "nemotron-nano-9b": 0.0,
+      "llmjp-v4-8b": 0.5,
+      "qwen3-8b": 0.5,
+      "claude": 1.0
+    }
+  }
+}

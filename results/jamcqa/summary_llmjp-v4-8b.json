@@ -1,0 +1,26 @@
+{
+  "model_name": "llmjp-v4-8b",
+  "evaluated_at": "2026-02-19T07:49:11.004816+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 58,
+    "accuracy": 0.58
+  },
+  "by_category": {
+    "culture": {
+      "correct": 31,
+      "total": 49,
+      "accuracy": 0.6327
+    },
+    "custom": {
+      "correct": 26,
+      "total": 49,
+      "accuracy": 0.5306
+    },
+    "regional_identity": {
+      "correct": 1,
+      "total": 2,
+      "accuracy": 0.5
+    }
+  }
+}

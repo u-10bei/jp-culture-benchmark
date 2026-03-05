@@ -1,0 +1,100 @@
+{"qid": "jamcqa-test-culture-00008", "category": "culture", "question": "紋付の家紋で、正式な数とされているものを選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00021", "category": "culture", "question": "湯飲みに取っ手がついていない理由を選択肢の中から選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00023", "category": "culture", "question": "神様の数え方について、最も適切なものを選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00025", "category": "culture", "question": "おせち料理の「おせち」の意味を選択肢から選べ", "predicted": "A", "correct": "B", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"おせち料理の「おせち」の意味を選択肢から選べ\". Options:\n\nA. 神様に感謝するための献立\nB. "}
+{"qid": "jamcqa-test-culture-00068", "category": "culture", "question": "2025年秋に上演の、渋沢栄一を主人公にした新作の能はどれ?", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00077", "category": "culture", "question": "70歳の長寿のお祝いはどれ?", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"70歳の長寿のお祝いはどれ?\" Options: A. 傘寿, B. 米寿, C. 古希, D. 喜寿. N"}
+{"qid": "jamcqa-test-culture-00127", "category": "culture", "question": "神道における「中今」の意味として正しいものはどれ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00133", "category": "culture", "question": "歌舞伎の見得の「にらみ」にはどのようなご利益があると言われていたか選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00137", "category": "culture", "question": "着物の柄で立身出世の願いが込められた柄はどれ?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00146", "category": "culture", "question": "黒色のだるまにはどのようなご利益があると考えられているか選択肢の中から選べ", "predicted": "D", "correct": "C", "is_correct": false, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00155", "category": "culture", "question": "鳥居の数え方で最も相応しいのはどれ?", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00157", "category": "culture", "question": "密教の五輪に含まれないのはどれ?", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"密教の五輪に含まれないのはどれ?\" Options: A. 火, B. 水, C. 空, D. 土. Nee"}
+{"qid": "jamcqa-test-culture-00160", "category": "culture", "question": "小正月にお飾りや書き初め、達磨などを焼く行事の名称ではないものはどれ?", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"小正月にお飾りや書き初め、達磨などを焼く行事の名称ではないものはどれ?\" Options: A. どんと焼き"}
+{"qid": "jamcqa-test-culture-00164", "category": "culture", "question": "菱餅の桃色が意味するものはどれ?", "predicted": "C", "correct": "A", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00165", "category": "culture", "question": "端午の節句に食べる餅はどれ?", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00170", "category": "culture", "question": "御神酒はなんと読むか選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00171", "category": "culture", "question": "健康を願ってお正月に飲むお酒を何というか選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00178", "category": "culture", "question": "茶道で釜を火にかけて湯を沸かすための炉をなんと言うか選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00190", "category": "culture", "question": "一説によると、神在が由来となった食べ物はどれ", "predicted": "D", "correct": "B", "is_correct": false, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00194", "category": "culture", "question": "「干支」の読み方の由来はどれ?", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: 「干支」の読み方の由来はどれ? Options: A. 木の兄, B. 陰陽五行, C. 兄弟, D. 十二支"}
+{"qid": "jamcqa-test-culture-00195", "category": "culture", "question": "月を愛でる文化で、日本発祥のものは選択肢のうちどれ?", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"月を愛でる文化で、日本発祥のものは選択肢のうちどれ?\" Options: A. 中秋の名月, B. 片月見,"}
+{"qid": "jamcqa-test-culture-00209", "category": "culture", "question": "選択肢の中で最も高い年齢のお祝いを選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "<think>\nWe need to answer the last question: \"選択肢の中で最も高い年齢のお祝いを選べ\". Options: A. 白寿, B. 卒寿, C. 傘寿, D."}
+{"qid": "jamcqa-test-culture-00210", "category": "culture", "question": "和食の基本調味料である「さしすせそ」に入らないものを選べ", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"和食の基本調味料である「さしすせそ」に入らないものを選べ\". The options: A. 酢, B. み"}
+{"qid": "jamcqa-test-culture-00222", "category": "culture", "question": "春の季語でないものを選択肢から選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00223", "category": "culture", "question": "夏の季語でないものを選択肢から選べ", "predicted": "C", "correct": "D", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00224", "category": "culture", "question": "秋の季語を選択肢から選べ", "predicted": "B", "correct": "D", "is_correct": false, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00225", "category": "culture", "question": "冬の季語を選択肢から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "<think>\nWe need to answer the last question: \"冬の季語を選択肢から選べ\" with options A-D. Need to pick which is "}
+{"qid": "jamcqa-test-culture-00226", "category": "culture", "question": "「石の上にも三年」と同じような意味を持つことわざを選択肢から選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00228", "category": "culture", "question": "日本舞踊を習い、磨きを深め芸名をもらうことをなんというか選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00232", "category": "culture", "question": "「自然に親しむとともにその恩恵に感謝し、豊かな心をはぐくむ日」はどれ?", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00243", "category": "culture", "question": "落語の人情噺ではないものはどれ?", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"落語の人情噺ではないものはどれ?\" Options A-D. Need to pick which is n"}
+{"qid": "jamcqa-test-culture-00245", "category": "culture", "question": "お正月に玄関や門などに飾る、わら細工を選択肢の中から選べ", "predicted": "B", "correct": "A", "is_correct": false, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00249", "category": "culture", "question": "大相撲では、土俵の上の吊り屋根の四隅に、4色の房が吊るされる。赤、青(緑)、白と、もう一つはどれ?", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "<think>\nWe need to answer the last question: \"大相撲では、土俵の上の吊り屋根の四隅に、4色の房が吊るされる。赤、青(緑)、白と、もう一つはどれ?\" Opt"}
+{"qid": "jamcqa-test-culture-00258", "category": "culture", "question": "相撲で、柱に向かって左右の突っ張りを繰り返す稽古を選択肢の中から選べ", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"相撲で、柱に向かって左右の突っ張りを繰り返す稽古を選択肢の中から選べ\". Options: A. リッポウ,"}
+{"qid": "jamcqa-test-culture-00259", "category": "culture", "question": "「ごっつぁんです」の語源はどれ?", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00274", "category": "culture", "question": "百人一首を使って行われる競技かるたの正装はどれ?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-culture-00277", "category": "culture", "question": "日本では、夜中の1時頃〜3時頃の時間帯を何と呼ぶか選択肢から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00280", "category": "culture", "question": "日本昔ばなしの作品で、人に恩返しする物語はどれ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00281", "category": "culture", "question": "「物事が円滑に回るよう」と願いを込めた正月遊びを選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00287", "category": "culture", "question": "子どもの健康や成長を願った縁起物を選べ", "predicted": "D", "correct": "B", "is_correct": false, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00289", "category": "culture", "question": "力くらべをしていることが古事記に書かれており、相撲の起源と言われる二人は誰と誰か選択肢から選べ", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"力くらべをしていることが古事記に書かれており、相撲の起源と言われる二人は誰と誰か選択肢から選べ\". Opti"}
+{"qid": "jamcqa-test-culture-00296", "category": "culture", "question": "歌舞伎の黒衣にあてはまらないのはどれ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00310", "category": "culture", "question": "「尺八をうまく吹けるようになるには時間がかかる」という意味のことわざはどれ?", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00312", "category": "culture", "question": "ひし餅の桃色は何を意味するか、選択肢から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00400", "category": "culture", "question": "神道の最高神とされている神を選択肢から選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-culture-00508", "category": "culture", "question": "氏神様に感謝をしに参拝すると良いとされる毎月初めの日を選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-culture-00509", "category": "culture", "question": "三社造りの神棚に祀らないおふだの神様はどれ", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"三社造りの神棚に祀らないおふだの神様はどれ\". Options: A. 天照大御神, B. 崇敬神社の神様,"}
+{"qid": "jamcqa-test-culture-00510", "category": "culture", "question": "1月〜6月分の厄落としをする神事を選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-culture-00579", "category": "culture", "question": "古事記に最初に登場する神はどれ?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00003", "category": "custom", "question": "茶道で使われる挨拶「お点前頂戴いたします」の意味はどれ?", "predicted": "B", "correct": "A", "is_correct": false, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00005", "category": "custom", "question": "神社の手水舎は何をするところか選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00010", "category": "custom", "question": "神道においてタブーとされている行為はどれ", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"神道においてタブーとされている行為はどれ\" with options A-D. Need to know w"}
+{"qid": "jamcqa-test-custom-00018", "category": "custom", "question": "目上の人に使う言葉として不適切なものを選べ", "predicted": "B", "correct": "A", "is_correct": false, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00019", "category": "custom", "question": "上司の呼び方として正しいものを選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00021", "category": "custom", "question": "謙譲語でないものを選択肢から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00022", "category": "custom", "question": "正しい敬語はどれ?", "predicted": "C", "correct": "B", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00024", "category": "custom", "question": "初七日から四十九日までの間、七日ごとに法要を行う理由を選択肢の中から選べ", "predicted": "C", "correct": "D", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00026", "category": "custom", "question": "家族が亡くなったとき、神棚はどうするか選択肢の中から選べ", "predicted": "D", "correct": "B", "is_correct": false, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00027", "category": "custom", "question": "友引に葬式を避ける理由を選択肢から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00028", "category": "custom", "question": "妊娠や出産祝いの手紙に書いてはいけない忌み言葉を選べ", "predicted": "A", "correct": "B", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"妊娠や出産祝いの手紙に書いてはいけない忌み言葉を選べ\". Options: A. 閉じる, B. 消える, "}
+{"qid": "jamcqa-test-custom-00034", "category": "custom", "question": "引越し蕎麦の「蕎麦」に込められていた意味はどれ?", "predicted": "A", "correct": "B", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"引越し蕎麦の「蕎麦」に込められていた意味はどれ?\" Options A-D. Need to pick co"}
+{"qid": "jamcqa-test-custom-00041", "category": "custom", "question": "神社にお参りした際に奉納するお金を「初穂料」と呼ぶのはなぜか選択肢から選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00044", "category": "custom", "question": "厄祝いの祝宴に人を招くのはなぜか選択肢から選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00046", "category": "custom", "question": "不祝儀袋で、薄墨の筆ペンを使用する主な理由を選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00048", "category": "custom", "question": "頂いたお菓子をそのまま相手に出す際に、ひと言添える言葉を選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00056", "category": "custom", "question": "お悔やみ状の冒頭として適切なものを選べ", "predicted": "C", "correct": "D", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00058", "category": "custom", "question": "お悔やみ状で避けるべき表現を選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00062", "category": "custom", "question": "三三九度の盃を三回に分けて飲む理由を選択肢から選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00068", "category": "custom", "question": "未婚者しか振袖が着れないのはなぜか選択肢から選べ", "predicted": "C", "correct": "D", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00073", "category": "custom", "question": "神社で拾った歯固めの石を使用後にすることとして正しいものはどれ?", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00076", "category": "custom", "question": "葬儀にて、ご飯にお箸を刺すなど、通常の作法と逆にすることを何と言うか選べ", "predicted": "A", "correct": "B", "is_correct": false, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00077", "category": "custom", "question": "家に戻ってきてもご飯は食べられないと死者に伝えるため、出棺の際に行う風習はどれ?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00092", "category": "custom", "question": "相手に名刺を渡すときに差し出す手を選択肢から選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00093", "category": "custom", "question": "取引先の接待などでタクシーに乗る時に、上座となる席はどれ?", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00094", "category": "custom", "question": "ビジネスシーンで電話相手の名前を聞く時の聞き方として、最も相応しいのはどれか?", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00095", "category": "custom", "question": "来客に社内を案内するとき、来客から見てどの位置を歩くのが良いか選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00097", "category": "custom", "question": "上司への発言として誤っている言葉はどれか?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00101", "category": "custom", "question": "神道の儀式の一種で、神事やお祭りの後にお供物やお酒を飲食することを何というか選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00119", "category": "custom", "question": "和室の作法として正しいものを選べ", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"和室の作法として正しいものを選べ\" with options A-D. Need to pick the c"}
+{"qid": "jamcqa-test-custom-00120", "category": "custom", "question": "「わたし箸」とはどのような行動か選択肢の中から選べ", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00128", "category": "custom", "question": "神社参拝時、入り口の鳥居をくぐる前の適切な作法を選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00129", "category": "custom", "question": "神社参拝時の作法やマナーとして誤っているものを選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00131", "category": "custom", "question": "葬儀に参列する際の受付での態度と、かける言葉として適切なものはどれ?", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00137", "category": "custom", "question": "お悔やみの言葉の文章でふさわしくないものを選べ", "predicted": "A", "correct": "B", "is_correct": false, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00141", "category": "custom", "question": "「拝」で頭を下げる角度はどれ?", "predicted": "A", "correct": "C", "is_correct": false, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00146", "category": "custom", "question": "節分の日に豆をまく理由はどれ?", "predicted": "B", "correct": "B", "is_correct": true, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00149", "category": "custom", "question": "一般的にねぶり箸とはどのような箸の使い方のことか選択肢の中から選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00153", "category": "custom", "question": "故人の極楽浄土までの道のりが安全でお腹が空かないためと祈り用意する食事はどれ?", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00156", "category": "custom", "question": "靴を脱いで室内に入るとき、体の向きはどれが正しい?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00158", "category": "custom", "question": "神社で祭祀の後に神様にお供えしたものを、参列者がいただく行事を何というか選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00159", "category": "custom", "question": "夏越の祓で行うこととして当てはまらないものはどれ?", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"夏越の祓で行うこととして当てはまらないものはどれ?\" Options A-D. Need to pick w"}
+{"qid": "jamcqa-test-custom-00166", "category": "custom", "question": "おみくじの引く際の行動として、一般的に望ましくないとされている行動を選べ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00167", "category": "custom", "question": "神事でお神酒をいただく際の作法として、正しくないものはどれ", "predicted": "D", "correct": "D", "is_correct": true, "raw_output": "D"}
+{"qid": "jamcqa-test-custom-00170", "category": "custom", "question": "出雲大社の正しい参拝方法を選べ", "predicted": "C", "correct": "B", "is_correct": false, "raw_output": "C"}
+{"qid": "jamcqa-test-custom-00175", "category": "custom", "question": "手水舎で身を清める際、二番目に清めるものはどれ", "predicted": "B", "correct": "A", "is_correct": false, "raw_output": "B"}
+{"qid": "jamcqa-test-custom-00176", "category": "custom", "question": "家を建てる前に行うのはどれ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "A"}
+{"qid": "jamcqa-test-custom-00183", "category": "custom", "question": "焼香のときの作法としてもっとも適切なものを選択肢の中から選べ", "predicted": "A", "correct": "A", "is_correct": true, "raw_output": "<think>\nWe need to answer the last question: \"焼香のときの作法としてもっとも適切なものを選択肢の中から選べ\". Options A-D given. Ne"}
+{"qid": "jamcqa-test-custom-00189", "category": "custom", "question": "比叡山で7年間山中を歩き続ける修行の名はどれ?", "predicted": "A", "correct": "D", "is_correct": false, "raw_output": "<think>\nWe need to answer the last question: \"比叡山で7年間山中を歩き続ける修行の名はどれ?\" Options: A. 居士林, B. 十二年籠山行, C"}
+{"qid": "jamcqa-test-regional_identity-00122", "category": "regional_identity", "question": "伊勢神宮参拝の際、内宮を歩く時のマナーとしてもっとも適切なものを選べ", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}
+{"qid": "jamcqa-test-regional_identity-00257", "category": "regional_identity", "question": "沖縄のお盆やお彼岸で燃やして使うものはどれ?", "predicted": "C", "correct": "C", "is_correct": true, "raw_output": "C"}

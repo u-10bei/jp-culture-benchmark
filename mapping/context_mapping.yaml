@@ -1,0 +1,685 @@
+themes:
+- id: 1
+  name: 和
+  mappings:
+  - keyword: 和
+    cultural_elements:
+    - 畳
+    - 襖
+    - 障子
+    - 風呂敷
+    - 庭園
+    - 茶道
+    context: 調和・共存の精神が空間や生活道具に表現される
+  - keyword: 配慮
+    cultural_elements:
+    - 和菓子
+    - 風呂敷
+    - 茶道
+    context: 相手への気遣いがもてなしや包み方に現れる
+  - keyword: 謙譲と謙遜
+    cultural_elements:
+    - 茶道
+    - 書道
+    context: 自己を控え相手を立てる所作
+  - keyword: 謙虚
+    cultural_elements:
+    - 茶道
+    - 柔道
+    - 剣道
+    context: 師や道に対する姿勢
+  - keyword: 遠慮
+    cultural_elements:
+    - 茶道
+    context: 一歩引く美学としての所作
+  - keyword: 場
+    cultural_elements:
+    - 温泉
+    - 銭湯
+    - 茶室
+    - 神社
+    - 寺院
+    - 相撲
+    - 能
+    - 落語
+    context: 場所に応じた行動規範
+  - keyword: 間
+    cultural_elements:
+    - 邦楽
+    - 三味線
+    - 尺八
+    - 庭園
+    - 能
+    - 落語
+    context: 沈黙や余白、音楽における余韻が持つ表現力
+  - keyword: 中庸
+    cultural_elements:
+    - 庭園
+    - 茶道
+    context: 極端を避けるバランス感覚
+  - keyword: 低頭
+    cultural_elements:
+    - 茶道
+    - 柔道
+    - 剣道
+    context: 頭を下げる礼の文化
+  - keyword: 根回し
+    cultural_elements: []
+    context: 現代ビジネス文脈における事前調整の慣習
+- id: 2
+  name: 型
+  mappings:
+  - keyword: 型
+    cultural_elements:
+    - 日本舞踊
+    - 舞楽
+    - 柔道
+    - 剣道
+    - 空手
+    - 歌舞伎
+    - 能
+    - 狂言
+    - 文楽
+    context: 定められた形式を習得し体現する
+  - keyword: 作法
+    cultural_elements:
+    - 着物
+    - 茶道
+    - 華道
+    - 香道
+    context: 決められた振る舞いの美学
+  - keyword: 行儀
+    cultural_elements:
+    - 茶道
+    context: 礼儀正しい所作
+  - keyword: 修練
+    cultural_elements:
+    - 書道
+    - 柔道
+    - 剣道
+    - 空手
+    - 合気道
+    - 弓道
+    context: 繰り返しによる技の体得
+  - keyword: 技
+    cultural_elements:
+    - 三味線
+    - 琴
+    - 尺八
+    - 陶芸
+    - 刀剣
+    - 織物
+    - 日本刀
+    context: 職人・演奏者の熟練した技術
+  - keyword: 匠
+    cultural_elements:
+    - 屏風
+    - 襖絵
+    - 陶芸
+    - 漆器
+    - 刀剣
+    context: 極められた技を持つ職人・絵師
+- id: 3
+  name: 道
+  mappings:
+  - keyword: 道
+    cultural_elements:
+    - 茶道
+    - 華道
+    - 書道
+    - 香道
+    - 柔道
+    - 剣道
+    - 弓道
+    context: 技術を超えた精神的な道程
+  - keyword: 道理
+    cultural_elements:
+    - 仏教
+    - 神道
+    context: 物事の理＜ことわり＞
+  - keyword: 武士道
+    cultural_elements:
+    - 袴
+    - 日本刀
+    - 剣道
+    - 柔道
+    - 弓道
+    - 空手
+    - 合気道
+    - 古武道
+    context: 武士の精神的規範が継承される
+  - keyword: 克己心
+    cultural_elements:
+    - 禅
+    - 柔道
+    - 剣道
+    - 空手
+    - 合気道
+    context: 自己に打ち克つ精神・自己鍛錬
+  - keyword: 業
+    cultural_elements:
+    - 陶芸
+    - 書道
+    - 茶道
+    - 禅
+    - 柔道
+    - 剣道
+    - 空手
+    - 弓道
+    context: 日常的に厳しい業務を己に課してゆくこと
+  - keyword: 求道
+    cultural_elements:
+    - 茶道
+    - 禅
+    context: 道を極めようとする姿勢
+- id: 4
+  name: 気
+  mappings:
+  - keyword: 気
+    cultural_elements:
+    - 太鼓
+    - 書道
+    - 禅
+    - 合気道
+    context: 生命力・精神エネルギーを練り発する
+  - keyword: やる気
+    cultural_elements:
+    - 書道
+    - 柔道
+    - 剣道
+    context: 物事に向かう意欲
+  - keyword: 気概
+    cultural_elements:
+    - 太鼓
+    - 相撲
+    - 空手
+    - 古武道
+    context: 困難に立ち向かう力強い精神
+  - keyword: 気持ち
+    cultural_elements:
+    - 和菓子
+    - 茶道
+    context: 心の動き・思いやり
+  - keyword: 気丈
+    cultural_elements:
+    - 茶道
+    - 禅
+    - 柔道
+    - 剣道
+    - 能
+    - 歌舞伎
+    context: 悲しいとき、動揺しているときに自らをコントロールする強い意志
+  - keyword: 運気
+    cultural_elements:
+    - 初詣
+    - 神道
+    context: 運・巡り合わせ
+  - keyword: 殺気
+    cultural_elements:
+    - 剣道
+    - 居合
+    context: 戦いにおける気配
+  - keyword: 空気
+    cultural_elements:
+    - 茶道
+    - 能
+    - 狂言
+    - 文楽
+    context: 場の雰囲気を感じ取る感覚
+- id: 5
+  name: 節
+  mappings:
+  - keyword: 節と節目
+    cultural_elements:
+    - 民俗舞踊
+    - 正月
+    - 節分
+    - 七夕
+    - お盆
+    - ひな祭り
+    - 端午の節句
+    - 盆踊り
+    - 祇園祭
+    - ねぶた祭
+    - 秋祭り
+    - 例大祭
+    context: 季節・人生の区切りを祝う行事
+  - keyword: 有終
+    cultural_elements:
+    - 阿波踊り
+    - 盆踊り
+    context: 物事を美しく終える達成感
+  - keyword: 節度
+    cultural_elements:
+    - 茶道
+    context: 度を超えない自制
+  - keyword: けじめ
+    cultural_elements:
+    - 餅
+    - 正月
+    context: 行事で区切りをつける意識
+  - keyword: 節約
+    cultural_elements:
+    - 漬物
+    - 風呂敷
+    context: 無駄を省く精神
+  - keyword: 節制
+    cultural_elements:
+    - 禅
+    - 柔道
+    - 剣道
+    context: 欲を抑える修行
+- id: 6
+  name: 情
+  mappings:
+  - keyword: 情
+    cultural_elements:
+    - 短歌
+    - 川柳
+    - 物語
+    - 浄瑠璃
+    - 歌舞伎
+    - 落語
+    - 文楽
+    context: 人間の感情の機微を描く
+  - keyword: 人情
+    cultural_elements:
+    - 阿波踊り
+    - 銭湯
+    - 落語
+    - 浄瑠璃
+    - 漫才
+    context: 人と人との温かい絆・庶民の人間関係
+  - keyword: 義理
+    cultural_elements:
+    - 歌舞伎
+    - 浄瑠璃
+    - 文楽
+    context: 社会的な責務・恩返し・義理人情の葛藤
+  - keyword: 恩
+    cultural_elements:
+    - 茶道
+    - 仏教
+    context: 受けた恵みへの感謝
+  - keyword: なさけ
+    cultural_elements:
+    - 落語
+    - 浄瑠璃
+    context: 他者への思いやり
+  - keyword: 内と外
+    cultural_elements:
+    - 茶室
+    context: 身内と外部の区別
+  - keyword: 本音と建前
+    cultural_elements:
+    - 茶道
+    - 能
+    context: 表と裏の使い分け
+  - keyword: 円満
+    cultural_elements:
+    - 神道
+    - 仏教
+    context: 丸く収まる調和
+  - keyword: 他人
+    cultural_elements:
+    - 温泉
+    - 銭湯
+    - 祇園祭
+    - 盆踊り
+    - 茶道
+    - 落語
+    context: 身内以外の人との距離感や接し方
+- id: 7
+  name: 忠
+  mappings:
+  - keyword: 忠
+    cultural_elements:
+    - 城
+    - 歌舞伎
+    context: 主君への忠誠・主君を守る建築
+  - keyword: 上下
+    cultural_elements:
+    - 茶道
+    - 柔道
+    - 剣道
+    context: 上位者と下位者の関係
+  - keyword: 目上、目下
+    cultural_elements:
+    - 茶道
+    - 柔道
+    - 剣道
+    context: 年長者・先輩への敬意
+  - keyword: 同期
+    cultural_elements:
+    - 柔道
+    - 剣道
+    context: 同時期に入門した仲間
+  - keyword: 奉公
+    cultural_elements:
+    - 歌舞伎
+    context: 主に仕える精神
+  - keyword: 忠義
+    cultural_elements:
+    - 歌舞伎
+    - 浄瑠璃
+    - 文楽
+    context: 忠誠と正義の物語
+  - keyword: 孝
+    cultural_elements:
+    - 仏教
+    context: 親への孝行
+  - keyword: しがらみ
+    cultural_elements:
+    - 落語
+    - 歌舞伎
+    context: 人間関係の絆と束縛
+- id: 8
+  name: 神
+  mappings:
+  - keyword: 神
+    cultural_elements:
+    - 雅楽
+    - 舞楽
+    - 神楽
+    - 祇園祭
+    - ねぶた祭
+    - 例大祭
+    - 秋祭り
+    - 神社
+    - 神道
+    context: 八百万の神々への信仰と祭礼
+  - keyword: 禊
+    cultural_elements:
+    - 銭湯
+    - 神社
+    - 神道
+    context: 水で身を清める儀式・入浴文化
+  - keyword: 穢れ
+    cultural_elements:
+    - 神社
+    - 神道
+    context: 不浄を避け清浄を保つ意識
+  - keyword: 清楚
+    cultural_elements:
+    - 茶道
+    - 神道
+    context: 清らかで飾らない美
+  - keyword: 清廉
+    cultural_elements:
+    - 神道
+    context: 心身の清らかさ
+  - keyword: 願
+    cultural_elements:
+    - 初詣
+    - ひな祭り
+    - 端午の節句
+    - 神社
+    context: 神仏への祈願・子の成長を願う
+  - keyword: 大和魂
+    cultural_elements:
+    - 神道
+    context: 日本人の精神性の核心
+- id: 9
+  name: 仏
+  mappings:
+  - keyword: 仏
+    cultural_elements:
+    - 寺院
+    - 仏閣
+    - 五重塔
+    - 本堂
+    - 仏教
+    context: 悟りを開いた存在・仏教建築の象徴
+  - keyword: 自力と他力
+    cultural_elements:
+    - 仏教
+    - 禅
+    context: 自らの修行か仏の救いか
+  - keyword: あの世
+    cultural_elements:
+    - お盆
+    - 盆踊り
+    - 仏教
+    context: 死後の世界観・先祖の霊を迎え送る
+  - keyword: ものの哀れ
+    cultural_elements:
+    - 浮世絵
+    - 短歌
+    - 物語
+    - 歌集
+    - 能
+    context: 儚さへの共感と美意識
+  - keyword: 無常
+    cultural_elements:
+    - 俳句
+    - 短歌
+    - 川柳
+    - 仏教
+    - 能
+    context: 万物は移り変わるという真理を詠む
+  - keyword: 悟り
+    cultural_elements:
+    - 禅
+    - 仏教
+    context: 真理に目覚めること
+  - keyword: 禅
+    cultural_elements:
+    - 庭園
+    - 茶道
+    - 禅
+    context: 座禅による精神修養
+  - keyword: 煩悩
+    cultural_elements:
+    - 仏教
+    context: 心を惑わす欲望
+  - keyword: 空
+    cultural_elements:
+    - 仏教
+    - 禅
+    context: 実体がないという教え
+  - keyword: 無
+    cultural_elements:
+    - 庭園
+    - 書道
+    - 禅
+    context: 何もないことの充実
+- id: 10
+  name: 縁
+  mappings:
+  - keyword: 縁
+    cultural_elements:
+    - 盆踊り
+    - 神社
+    - 仏教
+    context: 人と人との巡り合わせ・地域の縁を深める行事
+  - keyword: 仏縁
+    cultural_elements:
+    - 寺院
+    - 仏教
+    context: 仏との結びつき
+  - keyword: 輪廻
+    cultural_elements:
+    - 仏教
+    context: 生死を繰り返す循環
+  - keyword: 因果
+    cultural_elements:
+    - 仏教
+    - 落語
+    context: 原因と結果の連鎖
+  - keyword: 無縁
+    cultural_elements:
+    - 仏教
+    context: 縁のない状態・孤独
+- id: 11
+  name: 信
+  mappings:
+  - keyword: 信
+    cultural_elements:
+    - 神道
+    - 仏教
+    context: 信じること・誠実さ
+  - keyword: 信用
+    cultural_elements:
+    - 醤油
+    - 味噌
+    - 日本酒
+    - 茶道
+    context: 人としての信頼・老舗の長年の信頼
+  - keyword: 信心
+    cultural_elements:
+    - 初詣
+    - 神道
+    - 仏教
+    context: 神仏を信じる心
+  - keyword: 仁
+    cultural_elements:
+    - 剣道
+    - 柔道
+    context: 他者への慈しみ
+  - keyword: 仁義
+    cultural_elements:
+    - 歌舞伎
+    context: 人としての道理と義理
+- id: 12
+  name: 徳
+  mappings:
+  - keyword: 徳
+    cultural_elements:
+    - 仏教
+    - 神道
+    context: 人格的な優れた性質
+  - keyword: 名
+    cultural_elements:
+    - 歌舞伎
+    context: 名誉・評判
+  - keyword: 恥
+    cultural_elements:
+    - 能
+    context: 恥を知る心・自己規律
+  - keyword: 面目
+    cultural_elements:
+    - 歌舞伎
+    context: 世間に対する体面
+  - keyword: 分
+    cultural_elements:
+    - 茶道
+    context: 身の程をわきまえる
+  - keyword: 阿吽の呼吸
+    cultural_elements:
+    - 相撲
+    - 能
+    - 歌舞伎
+    - 狂言
+    - 文楽
+    - 漫才
+    context: 言葉なしの意思疎通・息の合った芸
+  - keyword: 礼
+    cultural_elements:
+    - 和服
+    - 茶道
+    - 神道
+    - 柔道
+    - 剣道
+    - 空手
+    - 合気道
+    - 弓道
+    context: 敬意を表す作法・武道における礼節
+  - keyword: 諦観
+    cultural_elements:
+    - 仏教
+    - 能
+    context: 物事を達観して受け入れる
+  - keyword: 沈黙
+    cultural_elements:
+    - 茶道
+    - 禅
+    - 能
+    context: 言葉を超えた表現
+  - keyword: 潔い
+    cultural_elements:
+    - 相撲
+    - 空手
+    - 合気道
+    context: 未練なく清らかな態度・勝敗を受け入れる
+- id: 13
+  name: 美
+  mappings:
+  - keyword: 美
+    cultural_elements:
+    - 屏風
+    - 盆栽
+    - 浮世絵
+    - 日本画
+    - 襖絵
+    - 庭園
+    context: 日本的な美の感覚
+  - keyword: わび
+    cultural_elements:
+    - 茶
+    - 和菓子
+    - 陶芸
+    - 茶室
+    - 茶道
+    context: 簡素で静寂な美・深い味わい
+  - keyword: さび
+    cultural_elements:
+    - 盆栽
+    - 俳句
+    - 庭園
+    - 茶道
+    context: 古びた趣・枯淡の美・風格
+  - keyword: 艶
+    cultural_elements:
+    - 日本舞踊
+    - 着物
+    - 扇子
+    - 袴
+    - 和服
+    - 浮世絵
+    - 歌舞伎
+    context: 衣装・舞に宿る色気のある美しさ
+  - keyword: 雅
+    cultural_elements:
+    - 雅楽
+    - 舞楽
+    - 琴
+    - 和歌
+    - 歌集
+    context: 宮廷的な優美さ
+  - keyword: 色
+    cultural_elements:
+    - 浮世絵
+    - 歌舞伎
+    - 浄瑠璃
+    - 落語
+    - 文楽
+    context: 恋や色事の世界
+  - keyword: 粋
+    cultural_elements:
+    - 浴衣
+    - 扇子
+    - 歌舞伎
+    - 落語
+    context: 洗練された都会的な感性・江戸の美意識
+  - keyword: 妖
+    cultural_elements:
+    - 浮世絵
+    - 能
+    context: 妖しく神秘的な美
+  - keyword: 幽玄
+    cultural_elements:
+    - 水墨画
+    - 庭園
+    - 能
+    - 能楽
+    context: 奥深く神秘的な美
+  - keyword: 風流
+    cultural_elements:
+    - 邦楽
+    - 盆栽
+    - 日本庭園
+    - 俳句
+    - 川柳
+    - 庭園
+    - 茶道
+    context: 自然を愛でる優雅な趣味

@@ -1,0 +1,26 @@
+{
+  "model_name": "gpt-oss-20b",
+  "evaluated_at": "2026-02-19T07:50:05.864339+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 46,
+    "accuracy": 0.46
+  },
+  "by_category": {
+    "culture": {
+      "correct": 25,
+      "total": 49,
+      "accuracy": 0.5102
+    },
+    "custom": {
+      "correct": 19,
+      "total": 49,
+      "accuracy": 0.3878
+    },
+    "regional_identity": {
+      "correct": 2,
+      "total": 2,
+      "accuracy": 1.0
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "model_name": "gpt-oss-swallow-20b",
+  "evaluated_at": "2026-02-20T11:34:12.441917+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 67,
+    "accuracy": 0.67
+  },
+  "by_category": {
+    "culture": {
+      "correct": 34,
+      "total": 49,
+      "accuracy": 0.6939
+    },
+    "custom": {
+      "correct": 32,
+      "total": 49,
+      "accuracy": 0.6531
+    },
+    "regional_identity": {
+      "correct": 1,
+      "total": 2,
+      "accuracy": 0.5
+    }
+  }
+}

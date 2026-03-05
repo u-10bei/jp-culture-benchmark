@@ -1,0 +1,26 @@
+{
+  "model_name": "llm-jp-4-swallow-sft1",
+  "evaluated_at": "2026-02-22T22:05:14.756382+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 61,
+    "accuracy": 0.61
+  },
+  "by_category": {
+    "culture": {
+      "correct": 32,
+      "total": 49,
+      "accuracy": 0.6531
+    },
+    "custom": {
+      "correct": 28,
+      "total": 49,
+      "accuracy": 0.5714
+    },
+    "regional_identity": {
+      "correct": 1,
+      "total": 2,
+      "accuracy": 0.5
+    }
+  }
+}

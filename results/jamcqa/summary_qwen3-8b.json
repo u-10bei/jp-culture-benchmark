@@ -1,0 +1,26 @@
+{
+  "model_name": "qwen3-8b",
+  "evaluated_at": "2026-02-18T14:46:51.827189+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 42,
+    "accuracy": 0.42
+  },
+  "by_category": {
+    "culture": {
+      "correct": 23,
+      "total": 49,
+      "accuracy": 0.4694
+    },
+    "custom": {
+      "correct": 18,
+      "total": 49,
+      "accuracy": 0.3673
+    },
+    "regional_identity": {
+      "correct": 1,
+      "total": 2,
+      "accuracy": 0.5
+    }
+  }
+}

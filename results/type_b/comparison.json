@@ -1,0 +1,215 @@
+{
+  "compared_at": "2026-02-18T14:46:44.973215+00:00",
+  "models": [
+    "claude",
+    "gpt-oss-20b",
+    "llmjp-v4-8b",
+    "nemotron-nano-9b",
+    "qwen3-8b"
+  ],
+  "overall_ranking": [
+    {
+      "model": "claude",
+      "average_total": 17.21
+    },
+    {
+      "model": "llmjp-v4-8b",
+      "average_total": 11.1
+    },
+    {
+      "model": "qwen3-8b",
+      "average_total": 10.96
+    },
+    {
+      "model": "gpt-oss-20b",
+      "average_total": 8.19
+    },
+    {
+      "model": "nemotron-nano-9b",
+      "average_total": 7.33
+    }
+  ],
+  "by_criterion": {
+    "正確性": [
+      {
+        "model": "claude",
+        "average": 4.52
+      },
+      {
+        "model": "llmjp-v4-8b",
+        "average": 3.44
+      },
+      {
+        "model": "qwen3-8b",
+        "average": 3.13
+      },
+      {
+        "model": "gpt-oss-20b",
+        "average": 2.52
+      },
+      {
+        "model": "nemotron-nano-9b",
+        "average": 2.42
+      }
+    ],
+    "文化的深度": [
+      {
+        "model": "claude",
+        "average": 3.64
+      },
+      {
+        "model": "llmjp-v4-8b",
+        "average": 2.53
+      },
+      {
+        "model": "qwen3-8b",
+        "average": 2.18
+      },
+      {
+        "model": "nemotron-nano-9b",
+        "average": 1.93
+      },
+      {
+        "model": "gpt-oss-20b",
+        "average": 1.77
+      }
+    ],
+    "場面適合性": [
+      {
+        "model": "claude",
+        "average": 4.3
+      },
+      {
+        "model": "llmjp-v4-8b",
+        "average": 2.94
+      },
+      {
+        "model": "qwen3-8b",
+        "average": 2.39
+      },
+      {
+        "model": "gpt-oss-20b",
+        "average": 2.2
+      },
+      {
+        "model": "nemotron-nano-9b",
+        "average": 1.85
+      }
+    ],
+    "簡潔性": [
+      {
+        "model": "claude",
+        "average": 4.75
+      },
+      {
+        "model": "qwen3-8b",
+        "average": 3.26
+      },
+      {
+        "model": "llmjp-v4-8b",
+        "average": 2.19
+      },
+      {
+        "model": "gpt-oss-20b",
+        "average": 1.7
+      },
+      {
+        "model": "nemotron-nano-9b",
+        "average": 1.13
+      }
+    ]
+  },
+  "by_theme": {
+    "仏": {
+      "claude": 18.3,
+      "gpt-oss-20b": 9.7,
+      "llmjp-v4-8b": 12.1,
+      "nemotron-nano-9b": 7.8,
+      "qwen3-8b": 11.6
+    },
+    "信": {
+      "claude": 18.4,
+      "gpt-oss-20b": 7.6,
+      "llmjp-v4-8b": 12.4,
+      "nemotron-nano-9b": 6.8,
+      "qwen3-8b": 13.8
+    },
+    "和": {
+      "claude": 16.22,
+      "gpt-oss-20b": 7.33,
+      "llmjp-v4-8b": 11.44,
+      "nemotron-nano-9b": 7.78,
+      "qwen3-8b": 11.33
+    },
+    "型": {
+      "claude": 17.33,
+      "gpt-oss-20b": 7.5,
+      "llmjp-v4-8b": 11.17,
+      "nemotron-nano-9b": 7.5,
+      "qwen3-8b": 11.67
+    },
+    "徳": {
+      "claude": 16.5,
+      "gpt-oss-20b": 7.3,
+      "llmjp-v4-8b": 10.1,
+      "nemotron-nano-9b": 7.3,
+      "qwen3-8b": 11.2
+    },
+    "忠": {
+      "claude": 16.88,
+      "gpt-oss-20b": 8.12,
+      "llmjp-v4-8b": 10.5,
+      "nemotron-nano-9b": 5.88,
+      "qwen3-8b": 10.0
+    },
+    "情": {
+      "claude": 17.0,
+      "gpt-oss-20b": 7.33,
+      "llmjp-v4-8b": 9.78,
+      "nemotron-nano-9b": 6.22,
+      "qwen3-8b": 10.0
+    },
+    "気": {
+      "claude": 17.5,
+      "gpt-oss-20b": 9.88,
+      "llmjp-v4-8b": 11.38,
+      "nemotron-nano-9b": 7.12,
+      "qwen3-8b": 10.5
+    },
+    "神": {
+      "claude": 18.14,
+      "gpt-oss-20b": 7.71,
+      "llmjp-v4-8b": 11.71,
+      "nemotron-nano-9b": 8.14,
+      "qwen3-8b": 10.14
+    },
+    "節": {
+      "claude": 16.29,
+      "gpt-oss-20b": 7.86,
+      "llmjp-v4-8b": 11.29,
+      "nemotron-nano-9b": 6.71,
+      "qwen3-8b": 9.43
+    },
+    "縁": {
+      "claude": 16.4,
+      "gpt-oss-20b": 6.8,
+      "llmjp-v4-8b": 10.0,
+      "nemotron-nano-9b": 8.2,
+      "qwen3-8b": 10.8
+    },
+    "美": {
+      "claude": 17.2,
+      "gpt-oss-20b": 8.3,
+      "llmjp-v4-8b": 10.9,
+      "nemotron-nano-9b": 8.2,
+      "qwen3-8b": 10.5
+    },
+    "道": {
+      "claude": 18.0,
+      "gpt-oss-20b": 10.67,
+      "llmjp-v4-8b": 12.17,
+      "nemotron-nano-9b": 7.67,
+      "qwen3-8b": 12.83
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "model_name": "qwen3-swallow-8b",
+  "evaluated_at": "2026-02-20T10:12:09.226890+00:00",
+  "total_questions": 100,
+  "overall": {
+    "correct": 63,
+    "accuracy": 0.63
+  },
+  "by_category": {
+    "culture": {
+      "correct": 31,
+      "total": 49,
+      "accuracy": 0.6327
+    },
+    "custom": {
+      "correct": 30,
+      "total": 49,
+      "accuracy": 0.6122
+    },
+    "regional_identity": {
+      "correct": 2,
+      "total": 2,
+      "accuracy": 1.0
+    }
+  }
+}
